@@ -1,0 +1,3 @@
+C:\Work\JavaScript\VuejsTest\VuejsTest\obj\Debug\VuejsTest.njsprojAssemblyReference.cache
+C:\Work\JavaScript\VuejsTest\VuejsTest\obj\Debug\VuejsTest.njsproj.CoreCompileInputs.cache
+C:\Work\JavaScript\VuejsTest\VuejsTest\bin\Microsoft.NodejsTools.WebRole.dll
